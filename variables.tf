@@ -7,7 +7,7 @@ variable "Name" {
 
 variable "Location" {
   type    = string
-  default = "francecentral"
+  default = "uksouth"
 }
 
 variable "RgName" {
